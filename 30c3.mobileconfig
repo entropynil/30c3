@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>TTLSInnerAuthentication</key>
+				<string>MSCHAPv2</string>
+				<key>UserName</key>
+				<string>guest</string>
+				<key>UserPassword</key>
+				<string>guest</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Verbindungseinstellungen für drahtloses Netzwerk konfigurieren.</string>
+			<key>PayloadDisplayName</key>
+			<string>WLAN (30c3)</string>
+			<key>PayloadIdentifier</key>
+			<string>de.ccc.events.30c3.wifi</string>
+			<key>PayloadOrganization</key>
+			<string>CCC</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>0B6CE9E2-371E-4D8B-8E84-EBCFE1496B4E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>30c3</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>TTLSInnerAuthentication</key>
+				<string>MSCHAPv2</string>
+				<key>UserName</key>
+				<string>guest</string>
+				<key>UserPassword</key>
+				<string>guest</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Verbindungseinstellungen für drahtloses Netzwerk konfigurieren.</string>
+			<key>PayloadDisplayName</key>
+			<string>WLAN (30c3-legacy)</string>
+			<key>PayloadIdentifier</key>
+			<string>de.ccc.events.30c3.wifi1</string>
+			<key>PayloadOrganization</key>
+			<string>CCC</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>529065A3-AB55-40D8-939A-225A4AA044E3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>30c3-legacy</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>30c3 802.1x profile</string>
+	<key>PayloadDisplayName</key>
+	<string>30c3</string>
+	<key>PayloadIdentifier</key>
+	<string>de.ccc.events.30c3</string>
+	<key>PayloadOrganization</key>
+	<string>CCC</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C5AF2C7A-C0FE-449E-8360-AFEE9AC49A88</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
